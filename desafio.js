@@ -46,7 +46,7 @@ isFibonacci(5);
 
  // 4)
 
-/*Tempo caminhão = (100 km / 80 km/h) + (2 x 5 min) = 1,25 h
+Tempo caminhão = (100 km / 80 km/h) + (2 x 5 min) = 1,25 h
 
 Já o tempo do carro será de:
 
@@ -54,8 +54,6 @@ Tempo carro = 100 km / 110 km/h = 0,91 h
 
 Como os veículos se encontram no meio do caminho, é possível concluir que o carro estará mais
 próximo da cidade de Ribeirão Preto.
-
-Portanto, a resposta é: o carro estará mais próximo da cidade de Ribeirão Preto.*/
 
 
  // 5)
